@@ -1,2 +1,3 @@
 # Gamehub
 This website is for... educational purposes...
+To do the thing put in python3
