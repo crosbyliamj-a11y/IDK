@@ -1,3 +1,4 @@
 # Gamehub
 This website is for... educational purposes...
-# next line To do the thing put in python3
+# Info 
+To do the thing put in: python3
